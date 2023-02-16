@@ -2,7 +2,7 @@
 
 *
 
-*main - print a line of code using puts
+*main - Entry
 *
 *Return: Always 0 (success)
 */
