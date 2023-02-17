@@ -1,12 +1,15 @@
 #include <stdio.h>
 /**
-* main -print a line of codes using puts
-*
+* main - entry point
+* text:  char variable storing string
+* puts: prints content of text
 *Return: 0
 */
 
 int main(void)
 {
-puts("/"Programming is like building a multilingual puzzle/n");
+char text[] = "/"Programming is like building a multilingual puzzle";
+
+puts(text);
 return (0);
 }
