@@ -15,7 +15,7 @@ if (num == '9')
 break;
 }
 else
-}
+{
 putchar(',');
 putchar(' ');
 }
