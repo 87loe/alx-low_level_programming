@@ -1,0 +1,21 @@
+#include "main.h"
+
+/**
+* main - print _putchar
+*Description: 'prints _putchar to stdout'
+* Return: 0
+*/
+
+int main(void)
+{
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+15 _putchar('a');
+16 _putchar('r');
+17 _putchar('\n');
+18 return (0);
+19}
