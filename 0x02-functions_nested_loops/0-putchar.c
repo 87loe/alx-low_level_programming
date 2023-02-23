@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
 * main - print _putchar
-*Description: 'prints _putchar to stdout'
+* is written by mbah
 * Return: 0
 */
 
@@ -19,3 +18,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
