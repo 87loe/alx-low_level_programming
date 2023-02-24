@@ -12,7 +12,7 @@ if (c >= 'A' && c <= 'Z')
 {
 return (1);
 }
-else
+ else("%c: %d\n", c, _isupper(c));
 {
 return (0);
 }
